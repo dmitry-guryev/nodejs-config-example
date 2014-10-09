@@ -79,7 +79,7 @@ console.log('Server port: ' + config.port);
 
 And what about configuration inheritance?
 ----------------------------------
-Of cause, we don't want to create all configurations from scratch. Better way is to use an inheritance and overriding.
+Of cause, we don't want to create all configurations from scratch. Better way is to use inheritance and overriding.
 
 Here is an example how to do this:
 
@@ -95,7 +95,7 @@ config.port = 3000;
 config.data.greeting = 'Good morning';
 ```
 
-That's all, it's too easy and obvious, but I hope it will be usefull for somebody :)
+That's all, it's too easy and obvious, but I hope it might be usefull for somebody :)
 
 [forever]:https://github.com/nodejitsu/forever
 [pm2]:https://github.com/Unitech/pm2
