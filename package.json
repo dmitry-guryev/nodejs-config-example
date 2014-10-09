@@ -21,7 +21,5 @@
     "url": "https://github.com/dmitry-guryev/nodejs-config-example/issues"
   },
   "homepage": "https://github.com/dmitry-guryev/nodejs-config-example",
-  "dependencies": {
-    "extend": "*"
-  }
+  "dependencies": {}
 }
