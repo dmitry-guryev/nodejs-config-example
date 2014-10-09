@@ -1,5 +1,5 @@
-Simple configuration pattern for Node.js app
-============================================
+Simple Node.js app configuration pattern
+========================================
 
 How to define an environment?
 -----------------------------
