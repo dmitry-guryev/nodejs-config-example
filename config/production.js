@@ -1,6 +1,6 @@
 // Config for production environment
 
-// Inherited from development config
+// Inherits from development config
 var config = module.exports = require('./development');
 
 // Overrides some params
